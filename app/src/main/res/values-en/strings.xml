@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppRestaurante</string>
+    <string name="titulo_app">Cooking App (USA)</string>
+    <string name="subtitle_app">Peruan food Orders</string>
+    <string name="btn_acceder">Access</string>
+    <string name="btn_salir">Exit</string>
+
+    <string name="btn_limpiar">Clear</string>
+    <string name="btn_cancelar">Cancel</string>
+    <string name="btn_ok">Ok</string>
+
+    <string name="btn_prueba">Prueba</string>
+
+
+    <string name="btn_prueba2">Prueba 2</string>
+    <string name="btn_prueba3">Prueba 3</string>
+
+</resources>
